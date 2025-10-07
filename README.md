@@ -29,6 +29,9 @@ This table must be preserved and only updated, never removed.
 | Problem | Difficulty | Time | Key Concepts | Links |
 |---------|------------|------|--------------|-------|
 | Binary Search | Intermediate | 30-45 min | Search Algorithms, Array Manipulation, Time Complexity, Edge Cases, Algorithm Variations | [📝 Question](app/python/binary_search/question_binary_search.md) \| [💻 Solution](app/python/binary_search/binary_search.py) |
+| Web Scraper | Intermediate | 30-40 min | HTTP Requests, API Integration, JSON Parsing, HTML Scraping, Error Handling, Retry Logic | [📝 Question](app/python/web_scraper/question_web_scraper.md) \| [💻 Solution](app/python/web_scraper/web_scraper.py) |
+| Data Analysis | Intermediate | 35-45 min | Pandas Operations, Data Cleaning, Aggregations, Pivot Tables, Data Merging, Business Intelligence | [📝 Question](app/python/data_analysis/question_data_analysis.md) \| [💻 Solution](app/python/data_analysis/data_analysis.py) |
+| ML Training | Intermediate | 35-45 min | Scikit-learn, Model Training, Feature Engineering, Cross-validation, Model Evaluation, Classification Algorithms | [📝 Question](app/python/ml_training/question_ml_training.md) \| [💻 Solution](app/python/ml_training/ml_training.py) |
 
 <!-- END OF PROTECTED PROBLEMS CATALOG TABLE -->
 
@@ -38,40 +41,26 @@ The repository follows a strict structure optimized for interview preparation:
 
 ```
 thinknsolve/
-├── README.md                  # Project documentation (this file)
-├── requirements.in            # Core dependency specifications
+├── README.md                  # Project documentation
+├── requirements.in            # Core dependency specifications  
 ├── requirements.txt           # Locked dependencies with exact versions
 ├── LICENSE                    # Project license
-└── app/
-    ├── __init__.py
-    ├── genai/                 # 🤖 GenAI Problems (LLM-based solutions)
-    │   ├── __init__.py
-    │   ├── sentiment_analysis/    # Text sentiment classification
-    │   │   ├── question_sentiment_analysis.md
-    │   │   └── sentiment_analysis.py
-    │   ├── code_generation/       # Automated code creation
-    │   │   ├── question_code_generation.md
-    │   │   └── code_generation.py
-    │   ├── creative_writing/      # Content generation
-    │   │   ├── question_creative_writing.md
-    │   │   └── creative_writing.py
-    │   ├── data_analysis/         # Business intelligence & reporting
-    │   │   ├── question_data_analysis.md
-    │   │   └── data_analysis.py
-    │   ├── question_answering/    # Information extraction & QA
-    │   │   ├── question_question_answering.md
-    │   │   └── question_answering.py
-    │   └── text_summarizer/       # Document summarization
-    │       ├── question_text_summarizer.md
-    │       └── text_summarizer.py
-    ├── python/                # 🐍 Python Problems (Algorithm-focused)
-    │   ├── __init__.py
-    │   └── binary_search/         # Search algorithms & variations
-    │       ├── question_binary_search.md
-    │       └── binary_search.py
-    └── utils/
-        ├── __init__.py
-        └── config.py              # Multi-provider LLM client configuration
+├── app/
+│   ├── datasets/              # Real-world datasets for analysis problems
+│   ├── genai/                 # GenAI Problems
+│   │   ├── sentiment_analysis/
+│   │   ├── code_generation/ 
+│   │   ├── creative_writing/
+│   │   ├── data_analysis/
+│   │   ├── question_answering/
+│   │   └── text_summarizer/
+│   ├── python/                # Python Problems
+│   │   ├── binary_search/
+│   │   ├── web_scraper/
+│   │   ├── data_analysis/
+│   │   └── ml_training/
+│   └── utils/
+│       └── config.py          # Multi-provider LLM client configuration
 ```
 
 ### File Structure Rules
@@ -129,15 +118,22 @@ DEFAULT_LLM_PROVIDER=openrouter
 
 ### Running Examples
 
-**Individual Problems:**
+**Run any problem using Python module syntax:**
 ```bash
 # GenAI Problems (require API keys)
-python3 -m app.genai.sentiment_analysis.sentiment_analysis
-python3 -m app.genai.text_summarizer.text_summarizer
-python3 -m app.genai.code_generation.code_generation
+python3 -m app.genai.<problem_name>.<problem_name>
 
-# Python Problems (no API keys needed)
-python3 -m app.python.binary_search.binary_search
+# Python Problems (no API keys needed)  
+python3 -m app.python.<problem_name>.<problem_name>
+```
+
+**Examples:**
+```bash
+# Try a GenAI problem
+python3 -m app.genai.sentiment_analysis.sentiment_analysis
+
+# Try a Python problem
+python3 -m app.python.ml_training.ml_training
 ```
 
 **Test Your Setup:**

@@ -1,0 +1,501 @@
+StockCode,Description,Category,UnitPrice
+HOM0001,Nike Deluxe Sofa,Home & Garden,576.5
+HEA0002,Premium Blue Supplements,Health & Beauty,80.19
+KIT0003,Microsoft Purple Mixer,Kitchen,349.0
+AUT0004,Generic Ultra Seat Covers,Automotive,102.77
+HEA0005,Nike Brown Conditioner,Health & Beauty,123.06
+SPO0006,Budget Orange Basketball,Sports & Outdoors,22.44
+HOM0007,Apple Bookshelf,Home & Garden,624.65
+HEA0008,Panasonic Compact Cleanser,Health & Beauty,29.74
+BOO0009,Premium Self-Help Book,Books,26.89
+AUT0010,Philips Gold Motor Oil,Automotive,67.91
+ELE0011,Microsoft Gold Smart Home Device,Electronics,533.52
+HEA0012,Target Red Lipstick,Health & Beauty,130.91
+HOM0013,HP Chair,Home & Garden,121.63
+FAS0014,Apple XL Boots,Fashion,153.28
+FAS0015,Samsung T-Shirt,Fashion,287.24
+OFF0016,Nike Pen,Office Supplies,79.6
+HEA0017,Kitchenaid Purple Deodorant,Health & Beauty,140.16
+TOY0018,Walmart Brown Art Supplies,Toys & Games,139.55
+BOO0019,Professional Science Book,Books,21.25
+HEA0020,Walmart Supplements,Health & Beauty,56.62
+BOO0021,Apple Mini Travel Guide,Books,37.63
+HOM0022,Walmart Sofa,Home & Garden,436.24
+KIT0023,Philips Standard Utensil Set,Kitchen,436.23
+AUT0024,Generic Car Charger,Automotive,296.06
+BOO0025,Target White Fiction Novel,Books,48.63
+BOO0026,Amazon Mini Language Learning,Books,38.26
+FAS0027,Panasonic XL Sneakers,Fashion,296.26
+FAS0028,HP Green Hat,Fashion,262.91
+OFF0029,Samsung Scissors,Office Supplies,80.09
+SPO0030,Basic Large Fishing Rod,Sports & Outdoors,382.92
+TOY0031,Amazon Card Game,Toys & Games,42.38
+FAS0032,Panasonic Black Shoes,Fashion,60.67
+BOO0033,Luxury Health Book,Books,37.36
+TOY0034,Generic Doll,Toys & Games,111.56
+TOY0035,Standard Pink Action Figure,Toys & Games,187.04
+OFF0036,Target Mini Pencil,Office Supplies,66.08
+AUT0037,Panasonic Pink GPS Navigator,Automotive,88.84
+SPO0038,Nike Dumbbell,Sports & Outdoors,301.42
+KIT0039,IKEA Gray Microwave,Kitchen,477.49
+OFF0040,HP Notebook,Office Supplies,54.49
+HEA0041,Canon Standard Nail Polish,Health & Beauty,140.42
+HOM0042,Generic Pink Desk,Home & Garden,107.6
+ELE0043,Basic Green Hard Drive,Electronics,1635.97
+SPO0044,Bosch Green Football,Sports & Outdoors,248.56
+HOM0045,Walmart Pro Table,Home & Garden,792.51
+FAS0046,Basic XL Blouse,Fashion,194.86
+KIT0047,HP Mini Oven,Kitchen,38.82
+BOO0048,Professional Pink Biography,Books,36.52
+ELE0049,Basic Mini Smart Watch,Electronics,612.22
+HOM0050,Cuisinart Compact Sofa,Home & Garden,550.37
+BOO0051,LG Health Book,Books,37.7
+SPO0052,Premium Mini Basketball,Sports & Outdoors,56.98
+BOO0053,Basic Orange Non-Fiction Book,Books,25.59
+HOM0054,Adidas XL Mattress,Home & Garden,250.59
+HOM0055,Google Gold Pillow,Home & Garden,594.87
+ELE0056,Budget Red Webcam,Electronics,1363.07
+HOM0057,Panasonic Silver Outdoor Furniture,Home & Garden,742.64
+FAS0058,Bosch Sneakers,Fashion,29.95
+AUT0059,Canon Green Tool Kit,Automotive,193.69
+HEA0060,Samsung Hair Dryer,Health & Beauty,62.51
+SPO0061,Target Standard Golf Club,Sports & Outdoors,270.24
+TOY0062,Dell Large Science Kit,Toys & Games,79.79
+FAS0063,Sony Shoes,Fashion,197.8
+AUT0064,Apple Ultra Tire Pressure Gauge,Automotive,151.66
+FAS0065,Microsoft Deluxe Sunglasses,Fashion,215.28
+SPO0066,Adidas Gym Equipment,Sports & Outdoors,44.13
+AUT0067,LG Black Car Wash Kit,Automotive,127.23
+AUT0068,Standard Blue Car Vacuum,Automotive,162.89
+OFF0069,Premium Deluxe Hole Punch,Office Supplies,14.16
+KIT0070,Microsoft Silver Microwave,Kitchen,12.61
+TOY0071,Nike Art Supplies,Toys & Games,119.27
+HOM0072,Cuisinart Chair,Home & Garden,608.63
+FAS0073,Kitchenaid Shoes,Fashion,290.39
+HOM0074,Generic Decorative Item,Home & Garden,257.96
+AUT0075,Standard Bluetooth Adapter,Automotive,167.22
+HOM0076,Bosch Pro Mattress,Home & Garden,730.86
+BOO0077,Kitchenaid Magazine,Books,9.46
+ELE0078,Samsung Gaming Console,Electronics,613.42
+KIT0079,Walmart Ultra Knife Set,Kitchen,185.94
+HOM0080,Panasonic Wardrobe,Home & Garden,222.6
+HEA0081,LG Purple Toothbrush,Health & Beauty,103.1
+HOM0082,Google Bed Frame,Home & Garden,592.82
+KIT0083,IKEA Pro Utensil Set,Kitchen,306.42
+HEA0084,Canon Compact Perfume,Health & Beauty,59.95
+OFF0085,Sony Binder,Office Supplies,54.08
+AUT0086,Sony Blue Car Charger,Automotive,118.4
+BOO0087,Adidas Pink Art Book,Books,17.31
+FAS0088,Amazon Red Hat,Fashion,238.08
+FAS0089,Kitchenaid Orange Sweater,Fashion,182.82
+TOY0090,Kitchenaid Ultra Doll,Toys & Games,174.43
+AUT0091,Walmart Car Phone Mount,Automotive,28.67
+BOO0092,Microsoft Standard Health Book,Books,48.56
+AUT0093,Walmart Mini Seat Covers,Automotive,150.91
+HOM0094,Apple Green Mirror,Home & Garden,534.61
+HOM0095,IKEA White Outdoor Furniture,Home & Garden,736.79
+BOO0096,Generic Large Textbook,Books,13.24
+BOO0097,Kitchenaid Language Learning,Books,47.87
+AUT0098,Professional Jump Starter,Automotive,196.16
+FAS0099,Panasonic Blue Pants,Fashion,195.88
+FAS0100,Sony Skirt,Fashion,31.36
+SPO0101,Bosch Black Fishing Rod,Sports & Outdoors,385.62
+HEA0102,Budget Cleanser,Health & Beauty,77.18
+AUT0103,Nike Premium Jump Starter,Automotive,69.2
+ELE0104,Panasonic Brown VR Headset,Electronics,503.57
+AUT0105,Walmart Tool Kit,Automotive,142.87
+HOM0106,Amazon Desk,Home & Garden,309.46
+HOM0107,Nikon Compact Desk,Home & Garden,409.02
+HOM0108,Nike Standard Watering Can,Home & Garden,218.57
+AUT0109,Luxury Orange GPS Navigator,Automotive,100.27
+SPO0110,Google Swimming Goggles,Sports & Outdoors,259.85
+HEA0111,HP Deluxe Toothpaste,Health & Beauty,79.75
+ELE0112,Walmart White Smart TV,Electronics,724.37
+OFF0113,Canon Ruler,Office Supplies,12.5
+BOO0114,LG Red Self-Help Book,Books,24.39
+KIT0115,Kitchenaid Green Toaster,Kitchen,211.25
+TOY0116,Adidas Purple Board Game,Toys & Games,52.96
+HEA0117,HP Silver Vitamins,Health & Beauty,82.78
+SPO0118,Philips Large Bicycle,Sports & Outdoors,81.5
+BOO0119,Apple Gold Technology Book,Books,9.98
+SPO0120,Adidas Gray Yoga Mat,Sports & Outdoors,362.38
+HOM0121,Bosch Purple Pillow,Home & Garden,117.06
+TOY0122,Bosch Green Card Game,Toys & Games,71.73
+HEA0123,Budget Mini Cleanser,Health & Beauty,24.06
+FAS0124,Adidas T-Shirt,Fashion,157.5
+KIT0125,Generic Compact Blender,Kitchen,488.45
+ELE0126,Bosch Power Bank,Electronics,982.14
+HEA0127,Walmart Hair Dryer,Health & Beauty,79.13
+KIT0128,Luxury Plate Set,Kitchen,139.13
+KIT0129,Google Red Mixer,Kitchen,353.56
+AUT0130,Microsoft Air Freshener,Automotive,258.64
+HOM0131,Nike Blanket,Home & Garden,54.73
+KIT0132,Panasonic Knife Set,Kitchen,107.83
+ELE0133,Panasonic Deluxe Charger,Electronics,1960.65
+KIT0134,Panasonic Pro Bowl Set,Kitchen,219.27
+ELE0135,Nike Keyboard,Electronics,575.5
+BOO0136,Amazon White Technology Book,Books,13.18
+ELE0137,Generic Gold Laptop,Electronics,584.93
+SPO0138,Panasonic Bicycle,Sports & Outdoors,380.36
+BOO0139,HP Science Book,Books,35.1
+AUT0140,Basic Car Vacuum,Automotive,117.76
+BOO0141,Walmart Deluxe Comic Book,Books,17.42
+OFF0142,Sony Green Highlighter,Office Supplies,63.7
+OFF0143,Samsung Deluxe Marker,Office Supplies,82.11
+KIT0144,Nike Kettle,Kitchen,277.82
+BOO0145,Budget Gold History Book,Books,29.01
+HOM0146,Adidas Table,Home & Garden,451.63
+SPO0147,Nikon Large Fishing Rod,Sports & Outdoors,259.35
+FAS0148,Sony Pro Scarf,Fashion,280.43
+AUT0149,Apple Car Vacuum,Automotive,93.13
+HOM0150,Samsung White Plant Pot,Home & Garden,640.65
+KIT0151,Bosch Pro Food Processor,Kitchen,486.05
+HOM0152,Luxury Max Storage Box,Home & Garden,629.01
+HEA0153,Dell Deodorant,Health & Beauty,5.52
+OFF0154,IKEA Pro Sticky Notes,Office Supplies,46.63
+AUT0155,HP Orange Car Phone Mount,Automotive,216.85
+AUT0156,Microsoft Motor Oil,Automotive,167.07
+SPO0157,Target Yoga Mat,Sports & Outdoors,355.77
+HOM0158,Basic Deluxe Mirror,Home & Garden,784.52
+KIT0159,Nike Dishwasher,Kitchen,180.26
+OFF0160,Canon Whiteboard,Office Supplies,71.14
+AUT0161,Budget Car Phone Mount,Automotive,271.03
+SPO0162,Samsung Black Camping Tent,Sports & Outdoors,333.09
+KIT0163,Microsoft Plate Set,Kitchen,17.66
+OFF0164,Budget Mini Marker,Office Supplies,94.67
+SPO0165,Google Pink Fishing Rod,Sports & Outdoors,143.22
+KIT0166,Target Mini Can Opener,Kitchen,86.26
+KIT0167,Nikon Mixer,Kitchen,244.71
+TOY0168,Philips Educational Toy,Toys & Games,173.85
+KIT0169,Bosch Silver Can Opener,Kitchen,327.31
+ELE0170,Microsoft Mini Keyboard,Electronics,1380.99
+KIT0171,Adidas Toaster,Kitchen,130.17
+HEA0172,Budget Black Makeup,Health & Beauty,92.48
+HEA0173,Apple Supplements,Health & Beauty,6.97
+ELE0174,Amazon Purple Speaker,Electronics,302.42
+OFF0175,Standard Red Notebook,Office Supplies,55.15
+BOO0176,Google Cookbook,Books,39.19
+TOY0177,HP Green Educational Toy,Toys & Games,56.32
+AUT0178,Dell Red Jump Starter,Automotive,21.04
+ELE0179,Cuisinart Headphones,Electronics,1032.85
+HEA0180,Apple Black Perfume,Health & Beauty,37.87
+HEA0181,Nikon Pink Perfume,Health & Beauty,138.65
+HEA0182,Bosch Makeup,Health & Beauty,20.97
+FAS0183,Nikon Pants,Fashion,110.11
+BOO0184,Samsung Silver Cookbook,Books,24.29
+BOO0185,Generic Standard Self-Help Book,Books,35.92
+OFF0186,Nikon Purple Desk Organizer,Office Supplies,91.79
+BOO0187,Standard Blue Art Book,Books,40.5
+HOM0188,Canon Rug,Home & Garden,371.19
+TOY0189,Nike Purple Action Figure,Toys & Games,37.49
+BOO0190,Microsoft Brown Biography,Books,19.37
+HEA0191,Premium Premium Foundation,Health & Beauty,120.06
+BOO0192,Standard Pink Biography,Books,22.24
+AUT0193,Cuisinart Max Floor Mats,Automotive,167.82
+KIT0194,Sony Compact Food Processor,Kitchen,268.2
+KIT0195,Amazon Gold Toaster,Kitchen,497.01
+ELE0196,Cuisinart Green Webcam,Electronics,1843.39
+ELE0197,Nikon Green Webcam,Electronics,603.5
+HOM0198,Panasonic Bed Frame,Home & Garden,666.56
+ELE0199,Adidas Smart Home Device,Electronics,1397.65
+HOM0200,Budget Outdoor Furniture,Home & Garden,772.81
+BOO0201,Premium Non-Fiction Book,Books,31.17
+TOY0202,Apple Educational Toy,Toys & Games,36.84
+KIT0203,Apple Compact Toaster,Kitchen,83.36
+HOM0204,Budget Bookshelf,Home & Garden,433.77
+SPO0205,Panasonic Large Ski Equipment,Sports & Outdoors,316.93
+ELE0206,Nike Keyboard,Electronics,1764.69
+ELE0207,Luxury Cable,Electronics,337.49
+HEA0208,Generic Large Nail Polish,Health & Beauty,85.35
+SPO0209,Kitchenaid Pink Gym Equipment,Sports & Outdoors,180.99
+HOM0210,Sony Green Mirror,Home & Garden,600.93
+HEA0211,Samsung Deodorant,Health & Beauty,31.64
+AUT0212,Professional Air Freshener,Automotive,212.34
+TOY0213,Target Mini Art Supplies,Toys & Games,41.32
+BOO0214,Google Technology Book,Books,9.7
+BOO0215,Apple Science Book,Books,12.32
+FAS0216,Google Orange Dress,Fashion,68.51
+KIT0217,Amazon Blender,Kitchen,488.56
+OFF0218,IKEA XL Pen,Office Supplies,6.48
+BOO0219,HP Cookbook,Books,21.05
+SPO0220,Kitchenaid Backpack,Sports & Outdoors,305.7
+BOO0221,Premium Gray Biography,Books,23.33
+AUT0222,Kitchenaid Green Motor Oil,Automotive,21.75
+HEA0223,IKEA White Foundation,Health & Beauty,47.07
+HOM0224,Sony Blue Storage Box,Home & Garden,763.43
+KIT0225,Standard Green Pan,Kitchen,386.72
+HOM0226,Kitchenaid Premium Desk,Home & Garden,529.83
+BOO0227,Standard Language Learning,Books,18.09
+OFF0228,Samsung Standard Eraser,Office Supplies,39.99
+KIT0229,Walmart Measuring Cup,Kitchen,84.68
+TOY0230,Standard Doll,Toys & Games,155.6
+SPO0231,Basic Blue Fishing Rod,Sports & Outdoors,209.59
+TOY0232,Microsoft Silver Art Supplies,Toys & Games,22.95
+OFF0233,Nikon Whiteboard,Office Supplies,19.56
+TOY0234,Bosch Large Stuffed Animal,Toys & Games,133.56
+HOM0235,IKEA Brown Lamp,Home & Garden,690.73
+HEA0236,Basic Standard Nail Polish,Health & Beauty,23.7
+BOO0237,Basic Gray Comic Book,Books,21.82
+HEA0238,Philips Cleanser,Health & Beauty,131.95
+ELE0239,Target Cable,Electronics,1585.37
+AUT0240,Adidas Orange Car Accessories,Automotive,122.11
+OFF0241,Basic Highlighter,Office Supplies,40.05
+TOY0242,Nikon Deluxe Action Figure,Toys & Games,111.67
+TOY0243,Sony Doll,Toys & Games,30.59
+HEA0244,Google Blue Nail Polish,Health & Beauty,51.01
+OFF0245,Google XL Tape,Office Supplies,13.2
+TOY0246,Cuisinart Puzzle,Toys & Games,99.29
+KIT0247,IKEA Bowl Set,Kitchen,304.53
+HEA0248,Standard Compact Shampoo,Health & Beauty,146.89
+KIT0249,Google Standard Blender,Kitchen,217.23
+SPO0250,Sony Golf Club,Sports & Outdoors,124.08
+FAS0251,Basic Compact Pants,Fashion,164.56
+SPO0252,Professional Golf Club,Sports & Outdoors,360.08
+HEA0253,Luxury Sunscreen,Health & Beauty,33.8
+HEA0254,Bosch Silver Foundation,Health & Beauty,145.01
+HEA0255,Premium Black Vitamins,Health & Beauty,86.33
+OFF0256,Sony Ultra Sticky Notes,Office Supplies,62.42
+BOO0257,Apple Science Book,Books,25.64
+HOM0258,Basic Standard Bookshelf,Home & Garden,339.95
+AUT0259,Apple Green Jump Starter,Automotive,195.77
+OFF0260,Samsung Marker,Office Supplies,97.95
+HEA0261,Luxury Serum,Health & Beauty,59.75
+BOO0262,Google Ultra Children's Book,Books,47.98
+BOO0263,Apple Orange Business Book,Books,27.59
+FAS0264,Target Compact Belt,Fashion,131.96
+BOO0265,Panasonic Gray Magazine,Books,10.1
+HOM0266,Panasonic Max Storage Box,Home & Garden,486.04
+AUT0267,LG Car Charger,Automotive,202.99
+HEA0268,Premium Red Moisturizer,Health & Beauty,149.33
+FAS0269,Target Dress,Fashion,280.76
+FAS0270,Budget Max Belt,Fashion,43.42
+TOY0271,IKEA Standard Baby Toy,Toys & Games,65.08
+HEA0272,Amazon Max Toothpaste,Health & Beauty,60.26
+KIT0273,Nike Large Oven,Kitchen,212.34
+HEA0274,Nikon Pro Skincare Cream,Health & Beauty,46.12
+SPO0275,Professional Compact Fitness Tracker,Sports & Outdoors,275.85
+ELE0276,Samsung Power Bank,Electronics,323.68
+BOO0277,Professional Gray Comic Book,Books,20.08
+OFF0278,Amazon Mini Eraser,Office Supplies,20.88
+HEA0279,Standard Compact Shampoo,Health & Beauty,23.69
+HEA0280,LG Pro Toothbrush,Health & Beauty,27.97
+KIT0281,Premium Pro Microwave,Kitchen,68.0
+OFF0282,Professional Purple Highlighter,Office Supplies,84.06
+HOM0283,Google Garden Tools,Home & Garden,44.87
+ELE0284,Luxury Black Earbuds,Electronics,1243.84
+AUT0285,Sony Black Bluetooth Adapter,Automotive,226.57
+HOM0286,Target Brown Storage Box,Home & Garden,169.58
+KIT0287,Google Pink Cup Set,Kitchen,365.89
+HEA0288,Generic Face Mask,Health & Beauty,17.03
+HOM0289,Target Red Sofa,Home & Garden,110.97
+OFF0290,Nike Marker,Office Supplies,27.68
+HOM0291,Sony Brown Chair,Home & Garden,732.36
+KIT0292,Nike Black Food Processor,Kitchen,212.74
+TOY0293,Google Mini Action Figure,Toys & Games,179.05
+TOY0294,Microsoft Educational Toy,Toys & Games,181.69
+OFF0295,Basic Shredder,Office Supplies,97.64
+BOO0296,Walmart Black Poetry Book,Books,12.13
+SPO0297,Google Max Bicycle,Sports & Outdoors,28.75
+AUT0298,Adidas Car Vacuum,Automotive,118.99
+KIT0299,Canon Coffee Maker,Kitchen,50.89
+HOM0300,Dell Blue Mirror,Home & Garden,295.13
+AUT0301,HP XL Tool Kit,Automotive,139.28
+HEA0302,Dell Toothpaste,Health & Beauty,104.62
+SPO0303,Nike Ultra Backpack,Sports & Outdoors,138.4
+KIT0304,Panasonic Compact Oven,Kitchen,302.2
+SPO0305,Walmart Camping Tent,Sports & Outdoors,165.56
+KIT0306,Nikon Deluxe Can Opener,Kitchen,411.48
+TOY0307,Samsung Purple Educational Toy,Toys & Games,121.51
+SPO0308,Nikon Red Skateboard,Sports & Outdoors,88.36
+BOO0309,Standard Technology Book,Books,16.04
+KIT0310,Nikon Utensil Set,Kitchen,164.08
+ELE0311,Premium Mouse,Electronics,671.16
+TOY0312,Amazon Mini Art Supplies,Toys & Games,63.89
+KIT0313,Google Refrigerator,Kitchen,146.24
+OFF0314,IKEA Compact Pencil,Office Supplies,68.85
+HEA0315,Professional Gold Sunscreen,Health & Beauty,12.2
+TOY0316,Samsung Compact Electronic Toy,Toys & Games,32.66
+TOY0317,Walmart Mini Educational Toy,Toys & Games,54.92
+ELE0318,Apple Ultra Keyboard,Electronics,1976.15
+TOY0319,Adidas Mini Toy Car,Toys & Games,17.03
+AUT0320,Kitchenaid Bluetooth Adapter,Automotive,198.76
+FAS0321,Nike Compact Belt,Fashion,221.13
+SPO0322,Luxury Blue Camping Tent,Sports & Outdoors,231.45
+BOO0323,Walmart Poetry Book,Books,18.43
+TOY0324,Basic Red Electronic Toy,Toys & Games,170.18
+OFF0325,Apple Marker,Office Supplies,82.89
+HOM0326,Canon Compact Lamp,Home & Garden,200.41
+FAS0327,Budget Brown Shorts,Fashion,247.6
+AUT0328,Premium Purple Car Accessories,Automotive,266.75
+ELE0329,Samsung Blue Headphones,Electronics,542.18
+OFF0330,Dell Green Highlighter,Office Supplies,59.18
+FAS0331,Canon Ultra Jacket,Fashion,268.02
+HEA0332,Generic Lipstick,Health & Beauty,81.5
+OFF0333,Generic Purple Tape,Office Supplies,33.55
+TOY0334,Sony Video Game,Toys & Games,66.28
+FAS0335,Cuisinart Pink Sneakers,Fashion,202.95
+KIT0336,Sony White Toaster,Kitchen,114.11
+KIT0337,Professional XL Kettle,Kitchen,61.22
+KIT0338,Luxury Gray Can Opener,Kitchen,382.64
+SPO0339,Target Hiking Boots,Sports & Outdoors,211.71
+HOM0340,Nikon Large Blanket,Home & Garden,697.59
+AUT0341,Luxury Blue Tire Pressure Gauge,Automotive,94.18
+HOM0342,Basic Red Plant Pot,Home & Garden,139.15
+FAS0343,Amazon Shoes,Fashion,146.34
+SPO0344,Bosch Large Running Shoes,Sports & Outdoors,153.74
+FAS0345,Sony Gold Wallet,Fashion,57.93
+AUT0346,Kitchenaid Large Car Charger,Automotive,92.69
+FAS0347,Target Compact Jeans,Fashion,70.27
+KIT0348,Microsoft Pro Food Processor,Kitchen,307.65
+AUT0349,Nike Deluxe Car Charger,Automotive,85.95
+FAS0350,Nike Skirt,Fashion,25.17
+SPO0351,Sony Purple Football,Sports & Outdoors,106.06
+OFF0352,LG Pink Highlighter,Office Supplies,73.92
+SPO0353,Google Ski Equipment,Sports & Outdoors,97.36
+SPO0354,Budget Fitness Tracker,Sports & Outdoors,90.33
+OFF0355,Budget Pink Tape,Office Supplies,18.68
+FAS0356,Microsoft Large Sweater,Fashion,55.42
+ELE0357,Bosch Black Drone,Electronics,371.48
+SPO0358,Microsoft Black Dumbbell,Sports & Outdoors,245.72
+TOY0359,Bosch XL Board Game,Toys & Games,30.78
+ELE0360,Generic Pink Memory Card,Electronics,1060.03
+HOM0361,Luxury Rug,Home & Garden,261.07
+BOO0362,Bosch Max Language Learning,Books,16.58
+TOY0363,Nikon Brown Stuffed Animal,Toys & Games,67.22
+BOO0364,Luxury Premium Comic Book,Books,26.8
+SPO0365,Budget Green Skateboard,Sports & Outdoors,391.88
+KIT0366,Nikon Pink Knife Set,Kitchen,293.02
+HEA0367,Google Gold Vitamins,Health & Beauty,138.49
+HEA0368,Dell Standard Makeup,Health & Beauty,84.01
+TOY0369,Microsoft Baby Toy,Toys & Games,139.02
+BOO0370,IKEA Purple Health Book,Books,18.92
+ELE0371,Kitchenaid Premium Memory Card,Electronics,263.46
+TOY0372,HP Musical Instrument,Toys & Games,11.58
+HOM0373,Generic Storage Box,Home & Garden,774.17
+OFF0374,Generic Hole Punch,Office Supplies,49.71
+FAS0375,Apple Gold Pants,Fashion,95.66
+OFF0376,Samsung Black Marker,Office Supplies,44.17
+ELE0377,Dell Laptop,Electronics,1759.87
+AUT0378,Luxury Blue Tool Kit,Automotive,218.26
+HOM0379,Panasonic Blue Pillow,Home & Garden,250.37
+ELE0380,Nikon Printer,Electronics,1363.43
+HEA0381,LG Red Nail Polish,Health & Beauty,134.49
+SPO0382,Microsoft Standard Fitness Tracker,Sports & Outdoors,352.85
+OFF0383,Generic Purple Stapler,Office Supplies,15.3
+AUT0384,HP Orange Tire Pressure Gauge,Automotive,176.5
+TOY0385,Microsoft Compact Card Game,Toys & Games,28.25
+AUT0386,Premium Standard Floor Mats,Automotive,218.09
+TOY0387,Panasonic Compact Musical Instrument,Toys & Games,97.64
+AUT0388,Luxury Green Car Accessories,Automotive,190.33
+SPO0389,IKEA Green Football,Sports & Outdoors,255.94
+OFF0390,Samsung Mini Desk Organizer,Office Supplies,14.34
+ELE0391,Standard Pro Smart TV,Electronics,931.24
+ELE0392,Samsung Tablet,Electronics,1972.62
+FAS0393,Walmart Boots,Fashion,97.81
+TOY0394,Basic Art Supplies,Toys & Games,150.69
+AUT0395,Premium Jump Starter,Automotive,73.44
+HOM0396,Budget Green Bed Frame,Home & Garden,198.25
+HOM0397,Target Black Plant Pot,Home & Garden,649.35
+OFF0398,Nike Sticky Notes,Office Supplies,17.0
+FAS0399,Nike Handbag,Fashion,44.53
+ELE0400,Philips Red Router,Electronics,613.85
+TOY0401,Professional Educational Toy,Toys & Games,171.07
+SPO0402,Basic Red Hiking Boots,Sports & Outdoors,184.29
+ELE0403,Adidas Standard Smart Watch,Electronics,496.55
+AUT0404,Premium XL Jump Starter,Automotive,151.93
+SPO0405,IKEA Standard Bicycle,Sports & Outdoors,124.57
+HEA0406,Philips Compact Makeup,Health & Beauty,26.48
+SPO0407,Nike Black Hiking Boots,Sports & Outdoors,240.6
+ELE0408,Target Premium Earbuds,Electronics,900.07
+BOO0409,Philips Large Biography,Books,17.46
+HOM0410,Kitchenaid Pro Watering Can,Home & Garden,188.35
+AUT0411,Kitchenaid Car Charger,Automotive,201.94
+BOO0412,Philips Green Science Book,Books,17.53
+SPO0413,Sony Deluxe Backpack,Sports & Outdoors,203.82
+TOY0414,IKEA Pro Educational Toy,Toys & Games,157.33
+AUT0415,Adidas Ultra Car Phone Mount,Automotive,287.23
+BOO0416,Sony Health Book,Books,43.34
+HOM0417,Nike XL Blanket,Home & Garden,749.03
+TOY0418,Luxury Art Supplies,Toys & Games,156.63
+KIT0419,Microsoft Mini Microwave,Kitchen,380.35
+HEA0420,Samsung Red Conditioner,Health & Beauty,10.43
+FAS0421,Luxury Deluxe Gloves,Fashion,254.59
+HOM0422,Nike Mini Garden Tools,Home & Garden,128.24
+OFF0423,Google Hole Punch,Office Supplies,50.13
+SPO0424,Google Compact Football,Sports & Outdoors,329.26
+KIT0425,IKEA Toaster,Kitchen,480.32
+FAS0426,Samsung Black Shorts,Fashion,117.47
+HEA0427,Cuisinart Gray Body Lotion,Health & Beauty,31.87
+AUT0428,Google Ultra Floor Mats,Automotive,250.86
+AUT0429,Nikon Max Dash Cam,Automotive,258.23
+FAS0430,Panasonic Blue Gloves,Fashion,177.21
+HOM0431,HP Desk,Home & Garden,411.5
+ELE0432,Cuisinart Pink Cable,Electronics,1646.23
+SPO0433,LG Blue Swimming Goggles,Sports & Outdoors,351.53
+HOM0434,Sony Pink Plant Pot,Home & Garden,686.23
+OFF0435,HP White Scissors,Office Supplies,55.5
+FAS0436,Bosch Purple Sunglasses,Fashion,201.17
+ELE0437,Panasonic Mouse,Electronics,682.39
+ELE0438,Google Gray Speaker,Electronics,1849.87
+ELE0439,Bosch Gaming Console,Electronics,1897.04
+OFF0440,Nikon Compact Pen,Office Supplies,60.62
+OFF0441,Cuisinart Green Pencil,Office Supplies,28.51
+ELE0442,Samsung Pink Headphones,Electronics,1307.67
+HEA0443,HP Pink Foundation,Health & Beauty,8.11
+ELE0444,Luxury Gold Smartphone,Electronics,1077.69
+HEA0445,Cuisinart Mini Skincare Cream,Health & Beauty,116.02
+HOM0446,Premium Green Decorative Item,Home & Garden,114.58
+FAS0447,Nikon Gray Watch,Fashion,139.41
+ELE0448,Amazon Gaming Console,Electronics,39.9
+HEA0449,IKEA Serum,Health & Beauty,121.26
+KIT0450,Sony Blender,Kitchen,224.89
+SPO0451,Canon Deluxe Yoga Mat,Sports & Outdoors,358.36
+SPO0452,Walmart Standard Tennis Racket,Sports & Outdoors,66.5
+FAS0453,Dell Gold Dress,Fashion,156.05
+BOO0454,Philips Brown Textbook,Books,40.11
+SPO0455,Kitchenaid Gray Football,Sports & Outdoors,285.15
+AUT0456,Samsung Compact Motor Oil,Automotive,216.07
+OFF0457,Dell Tape,Office Supplies,91.38
+AUT0458,HP Gold Tire Pressure Gauge,Automotive,49.98
+HOM0459,Amazon Deluxe Table,Home & Garden,617.25
+FAS0460,Bosch Purple T-Shirt,Fashion,94.22
+HEA0461,Professional White Moisturizer,Health & Beauty,45.47
+OFF0462,Bosch Highlighter,Office Supplies,39.49
+TOY0463,Amazon Puzzle,Toys & Games,45.04
+HEA0464,Samsung White Serum,Health & Beauty,83.52
+BOO0465,Walmart Gray Fiction Novel,Books,46.52
+SPO0466,Google Gray Gym Equipment,Sports & Outdoors,295.8
+OFF0467,Basic White Eraser,Office Supplies,81.12
+AUT0468,Budget Orange Car Charger,Automotive,259.68
+AUT0469,Panasonic Ultra Floor Mats,Automotive,234.17
+SPO0470,LG Pink Golf Club,Sports & Outdoors,70.11
+ELE0471,Standard Purple Monitor,Electronics,189.36
+KIT0472,HP Mini Dishwasher,Kitchen,28.92
+SPO0473,Dell Deluxe Sleeping Bag,Sports & Outdoors,327.9
+OFF0474,Nike Standard Notebook,Office Supplies,33.46
+SPO0475,Philips Large Golf Club,Sports & Outdoors,23.37
+ELE0476,Bosch Max Webcam,Electronics,451.33
+ELE0477,Sony Memory Card,Electronics,1228.45
+BOO0478,Philips Cookbook,Books,39.47
+SPO0479,Basic Pink Swimming Goggles,Sports & Outdoors,259.53
+HOM0480,Target Wardrobe,Home & Garden,113.7
+ELE0481,Generic Large Smart Watch,Electronics,1168.18
+ELE0482,Premium Hard Drive,Electronics,1904.37
+SPO0483,Apple Brown Swimming Goggles,Sports & Outdoors,225.37
+ELE0484,Amazon Blue Cable,Electronics,1023.74
+FAS0485,Sony Handbag,Fashion,107.85
+BOO0486,Sony Orange Technology Book,Books,11.44
+BOO0487,Canon Deluxe Business Book,Books,21.86
+SPO0488,Microsoft Orange Running Shoes,Sports & Outdoors,373.52
+OFF0489,Nike Gray Notebook,Office Supplies,52.06
+AUT0490,IKEA Gold Car Vacuum,Automotive,122.97
+OFF0491,Generic Mini Pen,Office Supplies,76.74
+FAS0492,Amazon Ultra Dress,Fashion,194.64
+HEA0493,Budget Serum,Health & Beauty,132.38
+ELE0494,Bosch Pro Cable,Electronics,893.21
+SPO0495,Professional Pink Basketball,Sports & Outdoors,144.9
+BOO0496,Philips Red Textbook,Books,36.19
+TOY0497,Nikon Craft Kit,Toys & Games,116.49
+FAS0498,Target Pink Sneakers,Fashion,142.96
+HEA0499,IKEA Green Hair Dryer,Health & Beauty,139.23
+KIT0500,Generic Green Mixer,Kitchen,306.72
